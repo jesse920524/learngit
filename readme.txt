@@ -5,7 +5,7 @@ git tracks changes of files
 
 creating a new branch is queck and simple!
 
-git is free software
+git is a free software//fix issue101 by add "a"
 
 
 
