@@ -14,3 +14,5 @@ git is a free software//fix issue101 by add 'a'
 on branch dev:
 在dev分支上编写新功能...在issue101分支修复bug后, 继续编写新功能完毕!
 
+在e:learngit的dev分支编写新功能....完毕.
+
